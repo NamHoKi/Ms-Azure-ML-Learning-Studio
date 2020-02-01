@@ -1,4 +1,5 @@
 # MS Azure ML
+#### 출처 : <https://onedrive.live.com/?authkey=%21ABEnV%2DUtn8Fpl7I&id=E04DC3BEC3161F8B%21392399&cid=E04DC3BEC3161F8B>
 ----------
 ## ML 알고리즘 표
 ##### ![AzureML_Algorithm_cheat_sheet](https://user-images.githubusercontent.com/48282708/72775016-1f653c80-3c50-11ea-8c24-7d64d594b26d.png)
